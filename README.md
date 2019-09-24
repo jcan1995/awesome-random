@@ -51,7 +51,7 @@ A not so curated and random list of amazingly awesome awesomeness.
 - [VueJS Documentation](https://vuejs.org/v2/guide/) - This is a new JavaScript framework and is maintained by an open sourced community!
 - https://materializecss.com/ - A responsive front-end framework
 - https://material.angular.io - Angular Component library for frontend development. Easy to use, has great looking scalable components and few different themes.
-
+- https://www.styled-components.com/ - Use the best bits of ES6 and CSS to style your apps without stress 💅
 
 
 ### Browsers
